@@ -92,12 +92,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
         </dependency>
-
-        <dependency>
-            <groupId>com.zjjhyzd.dubbo</groupId>
-            <artifactId>payment-interface</artifactId>
-            <version>${project.version}</version>
-        </dependency>
     </dependencies>
 
     <build>
