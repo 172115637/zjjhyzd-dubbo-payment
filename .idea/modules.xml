@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alipay-service-provider/alipay-service-provider.iml" filepath="$PROJECT_DIR$/alipay-service-provider/alipay-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-interface/payment-interface.iml" filepath="$PROJECT_DIR$/payment-interface/payment-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat-service-consumer-demo/wechat-service-consumer-demo.iml" filepath="$PROJECT_DIR$/wechat-service-consumer-demo/wechat-service-consumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat-service-provider/wechat-service-provider.iml" filepath="$PROJECT_DIR$/wechat-service-provider/wechat-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zjjhyzd-dubbo-payment.iml" filepath="$PROJECT_DIR$/.idea/zjjhyzd-dubbo-payment.iml" />
+    </modules>
+  </component>
+</project>

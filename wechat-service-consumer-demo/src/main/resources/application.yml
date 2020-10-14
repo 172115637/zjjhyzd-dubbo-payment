@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: wechat-service-consumer-demo
+dubbo:
+  registry:
+    address: 127.0.0.1:2181
+    protocol: zookeeper
+    timeout: 60000
+  consumer:
+    timeout: 15000
+    version: 1.0
+server:
+  port: 9000
